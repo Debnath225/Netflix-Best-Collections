@@ -1,4 +1,4 @@
-import styles from "./Netflix.module.css";
+import styles from "Netflix.module.css";
 
 export const SeriseCard = ({ data }) => {
   // console.log(props);
