@@ -1,5 +1,5 @@
-import NetflixSeries from "./components/NetflixSeries";
-import styles from "./components/Netflix.module.css";
+import NetflixSeries from "NetflixSeries";
+import styles from "Netflix.module.css";
 export const App = () => {
   return (
     <section className="container">
