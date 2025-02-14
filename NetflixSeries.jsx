@@ -1,5 +1,5 @@
-import seriesData from "../api/SeriesData.json";
-import { SeriseCard } from "./SeriseCard";
+import seriesData from "SeriesData.json";
+import { SeriseCard } from "SeriseCard";
 const NetflixSeries = () => {
   return (
     <ul className="grid grid-three--cols">
